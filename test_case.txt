@@ -1,0 +1,2 @@
+open the login form
+enter valid credentials
